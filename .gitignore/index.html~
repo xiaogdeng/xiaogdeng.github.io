@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+	<title>Homepage of Xiaoge Deng - A Ph.D. Candidate</title>
+	
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="from the free template 'DevResume' of Xiaoying Riley at 3rd Wave Media">
+	<meta name="author" content="dxiaog" >
+	<meta name="msvalidate.01" content="BFFDCE0091F31E908159C01A692E9F1B" /> <!-- for url search service of Bing -->
+	<link rel="shortcut icon" href="user.svg">
+	
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+	
+	<!-- FontAwesome JS-->
+	<script defer src="assets/fontawesome/js/all.min.js"></script>
+	
+	<!-- Theme CSS -->  
+	<link id="theme-style" rel="stylesheet" href="assets/css/devresume.css">
+
+</head> 
+
+<body>
+	
+	<div class="main-wrapper">
+		<div class="container px-3 px-lg-5">
+			<article class="resume-wrapper mx-auto theme-bg-light p-5 mb-5 my-5 shadow-lg">
+				
+				<div class="resume-header">
+					<div class="row align-items-center">
+						<div class="resume-title col-12 col-md-6 col-lg-8 col-xl-9">
+							<h2 class="resume-name mb-0 text-uppercase">Xiaoge Deng</h2>
+							<div class="resume-tagline mb-3 mb-md-0">Ph.D. Candidate</div>
+						</div><!--//resume-title-->
+						<div class="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
+							<ul class="list-unstyled mb-0">
+								<li class="mb-2"><i class="fas fa-envelope fa-fw fa-lg me-2"></i><a class="resume-link" href="mailto:dengxg@nudt.edu.cn">dengxg@nudt.edu.cn</a></li>
+								<li class="mb-2"><i class="fab fa-github fa-fw fa-lg me-2"></i><a class="resume-link" href="https://github.com/xiaogdeng">github.com/xiaogdeng</a></li>
+								<li class="mb-2"><i class="fab fa-google fa-fw fa-lg me-2"></i><a class="resume-link" href="https://scholar.google.com/citations?user=Fwf7d3IAAAAJ">scholar.google.com</a></li>
+								<li class="mb-2"><i class="fab fa-researchgate fa-fw fa-lg me-2"></i><a class="resume-link" href="https://www.researchgate.net/profile/">researchgate.net</a></li>
+								<li class="mb-0"><i class="fas fa-map-marker-alt fa-fw fa-lg me-2"></i>Changsha, Hunan, P.R. China</li>
+							</ul>
+						</div><!--//resume-contact-->
+					</div><!--//row-->
+					
+				</div><!--//resume-header-->
+				<hr>
+				<div class="resume-intro py-3">
+					<div class="row align-items-center">
+						<div class="col-12 col-md-3 col-xl-2 text-center">
+						    <img class="resume-profile-image mb-3 mb-md-0 me-md-5  ms-md-0 rounded mx-auto" src="assets/images/resume-profile.jpg" alt="image">
+						</div>
+						
+						<div class="col text-start">
+							<p class="mb-0">Xiaoge Deng is a Ph.D. student at <a class="resume-link-no-underline" href="https://www.nudt.edu.cn/">National University of Defense Technology</a> (NUDT), China. Previously, he was an undergraduate of QianxueSen Class (QXSC) at NUDT from 2013 to 2017, an visiting student at <a class="resume-link-no-underline" href="https://www.cs.sfu.ca/~jcliu/">Jiangchuan Liu</a>'s lab with the support from <a class="resume-link-no-underline" href="https://www.cscscholarship.org/">China Scholarship Council</a> (CSC) from 2016 to 2017. He is co-advised by <a class="resume-link-no-underline" href="https://xinwangliu.github.io/">Xinwang Liu</a>, Yuexiang Yang and <a class="resume-link-no-underline" href="https://ml.cs.uni-kl.de/people/marius-kloft.php">Marius Kloft</a> since 2019. His research interest is theory and algorithms of statistical machine learning and its applications, especially in multi-view learning, anomaly detection, contrastive learning and malware traffic detection. </p>
+						</div><!--//col-->
+					</div>
+				</div><!--//resume-intro-->
+				<hr>
+				<div class="resume-body">
+					<div class="row">
+						<div class="resume-main col-12 col-lg-8 col-xl-9   pe-0   pe-lg-5">
+							<section class="news-section py-3">
+								<h3 class="text-uppercase resume-section-heading mb-4">News</h3>
+								<div class="item mb-3">
+									<div class="item-content">
+										<ul class="resume-list-dot">
+											<li>2022/09 - One paper is accepted by Neurips 2022.</li>
+											<li>2022/06 - Two papers are accepted by ACM MM 2022.</li>
+											<li>2022/06 - One paper is accepted by TNNLS.</li>
+											<li>2022/04 - I am invited to server as a reviewer of ECCV 2022.</li>
+											<li>2022/03 - I am invited to server as a reviewer of NeurIPS 2022.</li>
+											<li>2022/03 - One paper is accepted by CVPR 2022.</li>
+											<li>2022/02 - I am invited to server as a reviewer of ICML 2022.</li>
+											<li>2022/01 - I am invited to server as a reviewer of IJCAI 2022.</li>
+											<li>2021/12 - A <a class="resume-link-no-underline" href="https://github.com/">Pytorch Loader</a> of <a class="resume-link-no-underline" href="https://www.mvtec.com/company/research/datasets/mvtec-ad/">MVTecAD</a> dataset is available.</li>
+											<li>2021/12 - An <a class="resume-link-no-underline" href="https://github.com/">implementation</a> of <a class="resume-link-no-underline" href="https://arxiv.org/abs/2111.06377v1">Masked Auto-Encoder</a> is available.</li>
+										</ul>
+									</div>
+								</div><!--//item-->
+
+							</section><!--//work-section-->
+
+							
+							<section class="publication-section py-3">
+								<h3 class="text-uppercase resume-section-heading mb-4">Publication</h3>
+								<div class="item mb-3">
+									<div class="item-heading row align-items-center mb-2">
+										<h4 class="item-title text-uppercase col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Conference</h4>
+									</div>
+									<div class="item-content">
+										<ul class="resume-list-square">
+											<li>
+												<a class="resume-link-publication" href="not_found.html">Stability and Generalization of Kernel Clustering: from Single Kernel to Multiple Kernel</a> <br>
+												Weixuan Liang, Xinwang Liu, Yong Liu, sihang zhou, Jun-Jie Huang, Siwei Wang, Jiyuan Liu, Yi Zhang and En Zhu <br>
+												<i>Thirty-sixth Conference on Neural Information Processing Systems, Neurips, 2022 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="not_found.html">Continual Multi-view Clustering</a> <br>
+												Xinhang Wan, Jiyuan Liu, Weixuan Liang, Xinwang Liu, Yi Wen and En Zhu <br>
+												<i>ACM Multimedia, ACM MM, 2022 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="not_found.html">Multiple Kernel Clustering with Dual Noise Minimization</a> <br>
+												Junpu Zhang, Liang Li, Siwei Wang, Jiyuan Liu, Yue Liu, Xinwang Liu and En Zhu <br>
+												<i>ACM Multimedia, ACM MM, 2022 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="not_found.html">Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph</a> <br>
+												Siwei Wang, Xinwang Liu, Li Liu, Wenxuan Tu, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, En Zhu <br>
+												<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR, 2022 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="not_found.html">Robust Graph-based Multi-view Clustering</a> <br>
+												Weixuan Liang, Xinwang Liu, Sihang Zhou, Jiyuan Liu, Siwei Wang and En Zhu <br>
+												<i>AAAI Conference on Artificial Intelligence, AAAI, 2022 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="not_found.html">Fusion Multiple Kernel K-means</a> <br>
+												Yi Zhang, Xinwang Liu, Jiyuan Liu, Sisi Dai, Changwang Zhang, Kai Xu and En Zhu <br>
+												<i>AAAI Conference on Artificial Intelligence, AAAI, 2022 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Localized_Simple_Multiple_Kernel_K-Means_ICCV_2021_paper.pdf">Localized Simple Multiple Kernel K-means</a> [<a class="resume-link-no-underline" href="https://github.com/xinwangliu/LocalizedSMKKM">code</a>]<br>
+												Xinwang Liu, Sihang Zhou, Li Liu, Chang Tang, Siwei Wang, Jiyuan Liu and Yi Zhang <br>
+												<i>IEEE International Conference on Computer Vision, ICCV, 2021 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_One-Pass_Multi-View_Clustering_for_Large-Scale_Data_ICCV_2021_paper.pdf">One-pass Multi-view Clustering for Large-scale Data</a> [<a class="resume-link-no-underline" href="https://github.com/liujiyuan13/OPMC-code_release">code</a>] <br>
+												Jiyuan Liu, Xinwang Liu, Yuexiang Yang, Li Liu, Siqi Wang, Weixuan Liang and Jiangyong Shi <br>
+												<i>IEEE International Conference on Computer Vision, ICCV, 2021 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://github.com/ethan-yizhang/OSLF-IMVC/blob/main/paper_MM2021_One_Stage_Incomplete_Multi-view_Clustering_via_Late_Fusion.pdf">One-Stage Incomplete Multi-view Clustering via Late Fusion</a> [<a class="resume-link-no-underline" href="https://github.com/ethan-yizhang/OSLF-IMVC">code</a>] <br>
+												Yi Zhang, Xinwang Liu, Siwei Wang, Jiyuan Liu, Sisi Dai, En Zhu <br>
+												<i>ACM International Conference on Multimedia, ACMMM, 2021 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://arxiv.org/pdf/2105.00277">Multi-view Clustering via Deep Matrix Factorization and Partition Alignment</a> [<a class="resume-link-no-underline" href="https://github.com/ZCtalk/MVC-DMF-PA">code</a>] <br>
+												Chen Zhang, Siwei Wang, Jiyuan Liu, Sihang Zhou, Pei Zhang, Xinwang Liu, En Zhu, Changwang Zhang <br>
+												<i>ACM International Conference on Multimedia, ACMMM, 2021 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="pdfs/IMSR_published.pdf">Self-Representation Subspace Clustering for Incomplete Multi-view Data</a> [<a class="resume-link-no-underline" href="https://github.com/liujiyuan13/IMSR-code_release">code</a>] <br>
+												Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, Wenxuan Tu, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang <br>
+												<i>ACM International Conference on Multimedia, ACMMM, 2021 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">One Pass Late Fusion Multi-view Clustering</a> [<a class="resume-link-no-underline" href="https://github.com/xinwangliu/onePassLateFusionMVC">code</a>] <br>
+												Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, Jiyuan Liu, Yi Zhang and En Zhu <br>
+												<i>International Conference on Machine Learning, ICML, 2021 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="pdfs/HMKC_published.pdf">Hierarchical Multiple Kernel Clustering</a> [<a class="resume-link-no-underline" href="https://github.com/liujiyuan13/HMKC-code_release">code</a>] <br>
+												Jiyuan Liu, Xinwang Liu, Yuexiang Yang, Siwei Wang, Sihang Zhou <br>
+												<i>AAAI Conference on Artificial Intelligence, AAAI, 2021 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="pdfs/IRL-TR.pdf">Image Representation Learning by Transformation Regression</a> <br>
+												Xifeng Guo, Jiyuan Liu* (corresponding author), Sihang Zhou, En Zhu*, Shihao Dong <br>
+												<i>International Conference on Pattern Recognition, ICPR, 2020 (CCF C)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://ojs.aaai.org/index.php/AAAI/article/view/6180">Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</a> [<a class="resume-link-no-underline" href="https://github.com/xinwangliu/ONMSC">code</a>] <br>
+												Sihang Zhou, Xinwang Liu, Jiyuan Liu, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao <br>
+												<i>AAAI Conference on Artificial Intelligence, AAAI, 2019 (CCF A)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://www.ijcai.org/Proceedings/2019/0524.pdf">Multi-view Clustering via Late Fusion Alignment Maximization</a> [<a class="resume-link-no-underline" href="https://github.com/wangsiwei2010/latefusionalignment">code</a>] <br>
+												Siwei Wang, Xinwang Liu, En Zhu, Chang Tang, Jiyuan Liu, Jingtao Hu, Jingyuan Xia, Jianping Yin <br>
+												<i>International Joint Conference on Artificial Intelligence, IJCAI, 2019 (CCF A)</i>
+											</li>
+										</ul>
+									</div>
+								</div><!--//item-->
+
+								<div class="item mb-3">
+									<div class="item-heading row align-items-center mb-2">
+										<h4 class="item-title text-uppercase col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Journal</h4>
+									</div>
+									<div class="item-content">
+										<ul class="resume-list-square">
+											<li>
+												<a class="resume-link-publication" href="pdfs/MvDAD.pdf">Multi-view Deep Anomaly Detection: A Systematic Exploration</a> [<a class="resume-link-no-underline" href="pdfs/MvDAD_supp.pdf">Supp</a>] [<a class="resume-link-no-underline" href="not_found.html">code</a>]<br>
+												Siqi Wang*, Jiyuan Liu* (contributed equally), Guang Yu, Xinwang Liu, Sihang Zhou, En Zhu, Yuexiang Yang, Jianping Yin, Wenjing Yang <br>
+												<i>IEEE Transactions on Neural Networks and Learning Systems, TNNLS, 2022 (CCF B, Q1)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/int.22661">Spare simple MKKM with semi-infinite linear program optimization</a> <br>
+												Yuxin Huang, Miaomiao Li, Wenxuan Tu, Jiyuan Liu, Jiahao Ying <br>
+												<i>International Journal of Intelligent Systems, IJIS, 2021 (CCF C, Q1)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="pdfs/CoMSC_published.pdf">Multi-view Subspace Clustering via Co-training Robust Data Representation</a> [<a class="resume-link-no-underline" href="https://github.com/liujiyuan13/CoMSC-code_release">code</a>] <br>
+												Jiyuan Liu, Xinwang Liu, Yuexiang Yang, Xifeng Guo, Marius Kloft, Liangzhong He <br>
+												<i>IEEE Transactions on Neural Networks and Learning Systems, TNNLS, 2021 (CCF B, Q1)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="pdfs/ON-ALK_published.pdf">Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</a> [<a class="resume-link-no-underline" href="https://github.com/liujiyuan13/ON-ALK_release_code">code</a>] <br>
+												Jiyuan Liu, Xinwang Liu, Jian Xiong, Qing Liao, Sihang Zhou, Siwei Wang, Yuexiang Yang <br>
+												<i>IEEE Transactions on Knowledge and Data Engineering, TKDE, 2020 (CCF A, Q1)</i>
+											</li>
+											<li>
+												<a class="resume-link-publication" href="https://www.techscience.com/cmc/v60n2/23066/pdf">MalDetect: A Structure of Encrypted Malware Traffic Detection</a> [<a class="resume-link-no-underline" href="https://github.com/liujiyuan13/MalDetect-code">code</a>] <br>
+												Jiyuan Liu, Yingzhi Zeng, Jiangyong Shi, Yuexiang Yang, Rui Wang, Liangzhong He <br>
+												<i>Computers, Materials and Continua, CMC, 2019 (SCI)</i>
+											</li>
+										</ul>
+									</div>
+								</div><!--//item-->
+
+							</section><!--//project-section-->	
+						</div><!--//resume-main-->
+						<aside class="resume-aside col-12 col-lg-4 col-xl-3 px-lg-4 pb-lg-4">
+									<section class="education-section py-3">
+										<h3 class="text-uppercase resume-section-heading mb-4">Education</h3>
+										<ul class="list-unstyled resume-education-list">
+											<li class="mb-3">
+												<div class="resume-degree font-weight-bold">Ph.D. in College of Computer</div>
+												<div class="resume-degree-org text-muted">National University of Defense Technology</div>
+												<div class="resume-degree-time text-muted">2019 - now</div>
+											</li>
+											<li class="mb-3">
+												<div class="resume-degree font-weight-bold">MSc in College of Computer</div>
+												<div class="resume-degree-org text-muted">National University of Defense Technology</div>
+												<div class="resume-degree-time text-muted">2017 - 2019</div>
+											</li>
+											<li>
+												<div class="resume-degree font-weight-bold">BSc in College of Computer</div>
+												<div class="resume-degree-org text-muted">National University of Defense Technology</div>
+												<div class="resume-degree-time text-muted">2003 - 2017</div>
+											</li>
+										</ul>
+									</section><!--//education-section-->
+									<section class="skills-section py-3">
+										<h3 class="text-uppercase resume-section-heading mb-4">Service</h3>
+										<ul class="list-unstyled resume-lang-list">
+											<li class="mb-2">Senior Program Committe Member of IJCAI 2021 [<a class="resume-link-no-underline" href="pdfs/ijcai21_spc.pdf">PDF</a>]</li>
+											<li class="mb-2">Reviewer of IEEE TKDE, IEEE TNNLS, IET Networks, etc. </li>
+											<li class="mb-2">Reviewer of NeurIPS, ICML, CVPR, ICCV, ECCV, ACMMM, AAAI, IJCAI, etc. </li>
+										</ul>
+									</section><!--//certificates-section-->
+									<section class="skills-section py-3">
+										<h3 class="text-uppercase resume-section-heading mb-4">Open Source</h3>
+										<ul class="list-unstyled resume-lang-list">
+											<li class="mb-2">A well-formatted <a class="resume-link-no-underline" href="https://github.com/liujiyuan13/MVTecAD">Pytorch Loader</a> of <a class="resume-link-no-underline" href="https://www.mvtec.com/company/research/datasets/mvtec-ad/">MVTecAD</a> dataset</li>
+											<li class="mb-2">An <a class="resume-link-no-underline" href="https://github.com/liujiyuan13/MAE-code">implementation</a> of <a class="resume-link-no-underline" href="https://arxiv.org/abs/2111.06377v1">Masked Auto-Encoder</a></li>
+											<li><a class="resume-link-no-underline" href="not_found.html">Multi-view dataset</a> collection</li>
+										</ul>
+									</section><!--//certificates-section-->
+									<section class="skills-section py-3">
+										<h3 class="text-uppercase resume-section-heading mb-4">Interest</h3>
+										<ul class="list-unstyled resume-interests-list mb-0">
+											<li class="mb-2">Badminton</li>
+											<li class="mb-2">Running</li>
+											<li class="mb-2">Swimming</li>
+										</ul>
+									</section><!--//certificates-section-->
+
+								</aside><!--//resume-aside-->
+					</div><!--//row-->
+				</div><!--//resume-body-->
+
+<!--				<hr>-->
+<!--				<div class="resume-footer text-center">-->
+<!--					<ul class="resume-social-list list-inline mx-auto mb-0 d-inline-block text-muted">-->
+<!--								<li class="list-inline-item mb-lg-0 me-3"><a class="resume-link" href="#"><i class="fab fa-github-square fa-2x me-2" data-fa-transform="down-4"></i><span class="d-none d-lg-inline-block text-muted">github.com/username</span></a></li>-->
+<!--								<li class="list-inline-item mb-lg-0 me-3"><a class="resume-link" href="#"><i class="fab fa-linkedin fa-2x me-2" data-fa-transform="down-4"></i><span class="d-none d-lg-inline-block text-muted">linkedin.com/in/username</span></a></li>-->
+<!--								<li class="list-inline-item mb-lg-0 me-lg-3"><a class="resume-link" href="#"><i class="fab fa-twitter-square fa-2x me-2" data-fa-transform="down-4"></i><span class="d-none d-lg-inline-block text-muted">@twittername</span></a></li>-->
+<!--							</ul>-->
+<!--				</div>&lt;!&ndash;//resume-footer&ndash;&gt;-->
+			</article>
+					
+		</div><!--//container-->
+				
+<!--				<footer class="footer text-center py-4">-->
+<!--					&lt;!&ndash;/* This template is free as long as you keep the footer attribution link. If you'd like to use the template without the attribution link, you can buy the commercial license via our website: themes.3rdwavemedia.com Thank you for your support. :) */&ndash;&gt;-->
+<!--					<small class="copyright text-muted">Designed with <i class="fas fa-heart"></i> by <a class="theme-link" href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>-->
+<!--				</footer>-->
+				
+	</div><!--//main-wrapper-->
+			
+
+</body>
+</html> 
+
