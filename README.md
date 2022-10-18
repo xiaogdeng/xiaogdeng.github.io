@@ -1,2 +1,2 @@
 # xiaogdeng.github.io
-Homepage of Xioage Deng
+Homepage of Xiaoge Deng
